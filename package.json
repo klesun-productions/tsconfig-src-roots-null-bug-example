@@ -1,0 +1,13 @@
+{
+  "name": "tsconfig-src-roots-null-bug-example",
+  "version": "1.0.0",
+  "description": "A test repo that reproduces a bug when extending tsconfig and overriding rootDirs compiler option",
+  "author": "klesun",
+  "license": "ISC",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.2.2"
+  }
+}
