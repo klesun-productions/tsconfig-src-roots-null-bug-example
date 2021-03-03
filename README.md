@@ -1,3 +1,5 @@
+See: https://github.com/microsoft/TypeScript/issues/43061
+
 To reproduce the bug:
 
 - Clone this repo
